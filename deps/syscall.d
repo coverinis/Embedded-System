@@ -1,0 +1,1 @@
+syscall.o: syscall.c
